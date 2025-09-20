@@ -26,7 +26,12 @@
 </head>
 <body>
   <h1>Community Events Calendar</h1>
-  <iframe src="https://calendar.google.com/calendar/embed?src=2398907f19548a2200c8745ece14543f1a1fe1a8d6a79063de56caccbaef02ec%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>>
-  <iframe src="https://calendar.google.com/calendar/embed?src=YOUR_CALENDAR_ID&ctz=Asia/Manila"></iframe>
+  <!-- Keep only your real calendar embed link -->
+  <iframe 
+    src="https://calendar.google.com/calendar/embed?src=2398907f19548a2200c8745ece14543f1a1fe1a8d6a79063de56caccbaef02ec%40group.calendar.google.com&ctz=Asia/Manila" 
+    style="border: 0" 
+    frameborder="0" 
+    scrolling="no">
+  </iframe>
 </body>
 </html>
